@@ -83,3 +83,68 @@ O que aprenderemos?
 * Manipulação de strings em Python, especialmente invertendo uma string.
 * Compreensão de como comparar a string original com sua versão invertida para determinar se é um palíndromo.
 * Introdução ao conceito de palíndromos e sua aplicação em problemas de programação.
+
+
+---
+## 🚀 Minha Implementação
+
+# 🤖 Desafio: Utilizando GitHub Copilot com Python
+
+Projeto desenvolvido durante o curso da **DIO** com o objetivo de explorar como o **GitHub Copilot** pode auxiliar no desenvolvimento de algoritmos em **Python**, sugerindo soluções e acelerando o processo de programação.
+
+---
+
+## 📚 Sobre o Desafio
+
+Este repositório é um **fork do projeto base disponibilizado pela instrutora do curso**, onde a proposta é utilizar o **GitHub Copilot** como assistente de programação para compreender como ferramentas de inteligência artificial podem ajudar no desenvolvimento de código.
+
+Durante o projeto, os algoritmos apresentados nas aulas foram recriados e analisados para compreender melhor os conceitos fundamentais da linguagem Python.
+
+---
+
+## 🎯 Objetivos de Aprendizagem
+
+* Aplicar conceitos básicos de **Python**
+* Explorar o uso do **GitHub Copilot** como ferramenta de apoio ao desenvolvimento
+* Compreender como sugestões de código podem acelerar a programação
+* Praticar **versionamento de código com Git e GitHub**
+* Documentar o processo de aprendizado
+
+---
+
+## 🧠 Conceitos Praticados
+
+Durante o desenvolvimento deste projeto foram utilizados conceitos fundamentais como:
+
+* Variáveis
+* Strings
+* Concatenação de textos
+* Estruturas básicas da linguagem Python
+* Organização de código
+
+---
+
+## 🛠 Tecnologias Utilizadas
+
+* Python
+* Git
+* GitHub
+* GitHub Copilot
+
+---
+
+## 💡 Aprendizados
+
+Este projeto permitiu compreender como ferramentas de inteligência artificial podem atuar como **assistentes de programação**, sugerindo soluções, auxiliando na escrita de código e contribuindo para aumentar a produtividade durante o desenvolvimento.
+
+Além disso, foi possível reforçar conceitos básicos de **Python** e boas práticas de organização de projetos no **GitHub**.
+
+---
+
+## 🔗 Repositório Original
+
+Projeto base disponibilizado pela instrutora do curso na plataforma **DIO**.
+[Aqui](https://github.com/alinealien/resolvendo-codigos-py-copilot)
+---
+
+
